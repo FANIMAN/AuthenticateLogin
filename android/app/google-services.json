@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "222454945678",
+    "project_id": "authenticatetask",
+    "storage_bucket": "authenticatetask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222454945678:android:eb3fe2bd5c9ec95e6e76df",
+        "android_client_info": {
+          "package_name": "com.example.authentictelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222454945678-nh0obt9oseefo8n2k5bpgnmd8uqu64le.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fantahun.mygramm"
+          }
+        },
+        {
+          "client_id": "222454945678-nh0obt9oseefo8n2k5bpgnmd8uqu64le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDr6YHKxQivA2fJd1dJIRNNda2G6F4HsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222454945678-nh0obt9oseefo8n2k5bpgnmd8uqu64le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
